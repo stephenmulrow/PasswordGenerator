@@ -5,3 +5,8 @@ To complete this challenge, I defined many different variables locally in the ge
 Also, I created a for loop to then randomly select each character and then add it to the generated password based on how many characters the user chose in the first prompt. 
 
 Finally, I returned the password which displayed it in the text box in the application. This challenge was great practice writing javascript code and getting more comfortable using the various elements within it. 
+
+Here is a link to the live URL for the deployed application: 
+
+https://stephenmulrow.github.io/PasswordGenerator/
+
